@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a95e3ecbe989a514d928f79671dc9e44, type: 3}
+  m_Name: CruelAngelThesis
+  m_EditorClassIdentifier: BopBeat.Runtime::BopBeat.Menus.SongDefinition
+  songTitle: Cruel Angel Thesis
+  artist: Yoko Takahashi
+  bpm: 80
+  beatOffsetSeconds: 0
+  tempoChanges:
+  - time: 16
+    bpm: 128
+  difficulty: EVERY TWO BEATS
+  coverArt: {fileID: 0}
+  music: {fileID: 8300000, guid: 7ab3145133247c646b6bb6d6eb861c0e, type: 3}
+  beatmap: {fileID: 4900000, guid: a8ce4f28170009b4581da7db69a17c52, type: 3}
+  background: {fileID: 0}
+  backgroundTint: {r: 1, g: 1, b: 1, a: 1}

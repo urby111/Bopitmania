@@ -1,0 +1,333 @@
+{
+  "font": "Assets/Art/sportypo/Sportypo-Reguler-Demo.ttf",
+  "color": "#FFFFFF",
+  "fontSize": 256,
+  "spaceAdvance": 165.0,
+  "digits": "Original demo promotional-logo glyphs; not readable numerals.",
+  "characters": [
+    {
+      "character": "a",
+      "file": "a.png",
+      "width": 280,
+      "height": 191,
+      "advance": 245.0,
+      "offsetX": -16,
+      "offsetY": 30
+    },
+    {
+      "character": "b",
+      "file": "b.png",
+      "width": 338,
+      "height": 256,
+      "advance": 273.0,
+      "offsetX": -46,
+      "offsetY": -35
+    },
+    {
+      "character": "c",
+      "file": "c.png",
+      "width": 278,
+      "height": 191,
+      "advance": 213.0,
+      "offsetX": -46,
+      "offsetY": 30
+    },
+    {
+      "character": "d",
+      "file": "d.png",
+      "width": 364,
+      "height": 255,
+      "advance": 270.0,
+      "offsetX": -50,
+      "offsetY": -34
+    },
+    {
+      "character": "e",
+      "file": "e.png",
+      "width": 311,
+      "height": 191,
+      "advance": 249.0,
+      "offsetX": -46,
+      "offsetY": 30
+    },
+    {
+      "character": "f",
+      "file": "f.png",
+      "width": 342,
+      "height": 256,
+      "advance": 248.0,
+      "offsetX": -75,
+      "offsetY": 30
+    },
+    {
+      "character": "g",
+      "file": "g.png",
+      "width": 314,
+      "height": 256,
+      "advance": 256.0,
+      "offsetX": -39,
+      "offsetY": 30
+    },
+    {
+      "character": "h",
+      "file": "h.png",
+      "width": 322,
+      "height": 256,
+      "advance": 250.0,
+      "offsetX": -50,
+      "offsetY": -35
+    },
+    {
+      "character": "i",
+      "file": "i.png",
+      "width": 194,
+      "height": 256,
+      "advance": 103.0,
+      "offsetX": -50,
+      "offsetY": -35
+    },
+    {
+      "character": "j",
+      "file": "j.png",
+      "width": 267,
+      "height": 256,
+      "advance": 173.0,
+      "offsetX": -75,
+      "offsetY": 30
+    },
+    {
+      "character": "k",
+      "file": "k.png",
+      "width": 310,
+      "height": 256,
+      "advance": 234.0,
+      "offsetX": -46,
+      "offsetY": -35
+    },
+    {
+      "character": "l",
+      "file": "l.png",
+      "width": 193,
+      "height": 256,
+      "advance": 107.0,
+      "offsetX": -46,
+      "offsetY": -35
+    },
+    {
+      "character": "m",
+      "file": "m.png",
+      "width": 366,
+      "height": 191,
+      "advance": 296.0,
+      "offsetX": -50,
+      "offsetY": 30
+    },
+    {
+      "character": "n",
+      "file": "n.png",
+      "width": 303,
+      "height": 191,
+      "advance": 234.0,
+      "offsetX": -50,
+      "offsetY": 30
+    },
+    {
+      "character": "o",
+      "file": "o.png",
+      "width": 298,
+      "height": 191,
+      "advance": 236.0,
+      "offsetX": -46,
+      "offsetY": 30
+    },
+    {
+      "character": "p",
+      "file": "p.png",
+      "width": 363,
+      "height": 255,
+      "advance": 270.0,
+      "offsetX": -75,
+      "offsetY": 30
+    },
+    {
+      "character": "q",
+      "file": "q.png",
+      "width": 297,
+      "height": 229,
+      "advance": 228.0,
+      "offsetX": -50,
+      "offsetY": 30
+    },
+    {
+      "character": "r",
+      "file": "r.png",
+      "width": 270,
+      "height": 191,
+      "advance": 200.0,
+      "offsetX": -50,
+      "offsetY": 30
+    },
+    {
+      "character": "s",
+      "file": "s.png",
+      "width": 297,
+      "height": 191,
+      "advance": 221.0,
+      "offsetX": -53,
+      "offsetY": 30
+    },
+    {
+      "character": "t",
+      "file": "t.png",
+      "width": 239,
+      "height": 254,
+      "advance": 173.0,
+      "offsetX": -50,
+      "offsetY": -33
+    },
+    {
+      "character": "u",
+      "file": "u.png",
+      "width": 303,
+      "height": 191,
+      "advance": 238.0,
+      "offsetX": -46,
+      "offsetY": 30
+    },
+    {
+      "character": "v",
+      "file": "v.png",
+      "width": 313,
+      "height": 191,
+      "advance": 234.0,
+      "offsetX": -50,
+      "offsetY": 30
+    },
+    {
+      "character": "w",
+      "file": "w.png",
+      "width": 369,
+      "height": 191,
+      "advance": 307.0,
+      "offsetX": -46,
+      "offsetY": 30
+    },
+    {
+      "character": "x",
+      "file": "x.png",
+      "width": 300,
+      "height": 191,
+      "advance": 242.0,
+      "offsetX": -39,
+      "offsetY": 30
+    },
+    {
+      "character": "y",
+      "file": "y.png",
+      "width": 297,
+      "height": 255,
+      "advance": 236.0,
+      "offsetX": -42,
+      "offsetY": 30
+    },
+    {
+      "character": "z",
+      "file": "z.png",
+      "width": 307,
+      "height": 191,
+      "advance": 241.0,
+      "offsetX": -50,
+      "offsetY": 30
+    },
+    {
+      "character": "0",
+      "file": "0.png",
+      "width": 275,
+      "height": 174,
+      "advance": 243.0,
+      "offsetX": -16,
+      "offsetY": 47
+    },
+    {
+      "character": "1",
+      "file": "1.png",
+      "width": 177,
+      "height": 173,
+      "advance": 143.0,
+      "offsetX": -17,
+      "offsetY": 48
+    },
+    {
+      "character": "2",
+      "file": "2.png",
+      "width": 283,
+      "height": 170,
+      "advance": 251.0,
+      "offsetX": -16,
+      "offsetY": 51
+    },
+    {
+      "character": "3",
+      "file": "3.png",
+      "width": 275,
+      "height": 170,
+      "advance": 243.0,
+      "offsetX": -16,
+      "offsetY": 51
+    },
+    {
+      "character": "4",
+      "file": "4.png",
+      "width": 279,
+      "height": 167,
+      "advance": 247.0,
+      "offsetX": -16,
+      "offsetY": 54
+    },
+    {
+      "character": "5",
+      "file": "5.png",
+      "width": 286,
+      "height": 169,
+      "advance": 254.0,
+      "offsetX": -16,
+      "offsetY": 52
+    },
+    {
+      "character": "6",
+      "file": "6.png",
+      "width": 279,
+      "height": 170,
+      "advance": 247.0,
+      "offsetX": -16,
+      "offsetY": 51
+    },
+    {
+      "character": "7",
+      "file": "7.png",
+      "width": 274,
+      "height": 168,
+      "advance": 242.0,
+      "offsetX": -16,
+      "offsetY": 53
+    },
+    {
+      "character": "8",
+      "file": "8.png",
+      "width": 283,
+      "height": 165,
+      "advance": 251.0,
+      "offsetX": -16,
+      "offsetY": 56
+    },
+    {
+      "character": "9",
+      "file": "9.png",
+      "width": 283,
+      "height": 169,
+      "advance": 251.0,
+      "offsetX": -16,
+      "offsetY": 52
+    }
+  ]
+}

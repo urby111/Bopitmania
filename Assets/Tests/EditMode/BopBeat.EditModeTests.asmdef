@@ -1,0 +1,6 @@
+{
+  "name": "BopBeat.EditModeTests",
+  "references": ["BopBeat.Runtime"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

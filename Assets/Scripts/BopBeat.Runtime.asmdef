@@ -1,0 +1,6 @@
+{
+  "name": "BopBeat.Runtime",
+  "rootNamespace": "BopBeat",
+  "references": ["Unity.InputSystem", "Unity.ugui"],
+  "autoReferenced": true
+}
